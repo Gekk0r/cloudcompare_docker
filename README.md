@@ -1,0 +1,1 @@
+Cloud compare in docker based on nvidia/cuda
